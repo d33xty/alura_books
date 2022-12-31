@@ -1,2 +1,2 @@
 # alura_books
-Projeto acadêmico onde o principal quesito abordado foram as diferentes funcionalidades oferecidas por um array 
+Repositório do treinamento "JavaScript: métodos de array" da Alura Cursos Online.y 
