@@ -1,2 +1,2 @@
 # alura_books
-Repositório do treinamento "JavaScript: métodos de array" da Alura Cursos Online.y 
+Repositório do treinamento "JavaScript: métodos de array" da Alura Cursos Online.
